@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patrick-Ngige
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate with like-minded peers
 - 📫 How to reach me wakemanjajr@gmail.com
 
