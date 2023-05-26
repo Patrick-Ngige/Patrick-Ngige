@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Patrick-Ngige
-- 👀 I’m interested in web development
+- 👀 I’m a web development enthusiastic
 - 🌱 I’m currently going through WordPress Development stack at THEJitu.
 - 💞️ I’m looking to collaborate with like-minded professionals.
 - 📫 How to reach me wakemanjajr@gmail.com
